@@ -1,6 +1,6 @@
 # Adventure Works Sales Analysis
 
-![Adventure Works Logo](adventure_works_logo.png)
+<img src="adventure_works_logo.png" alt="Adventure Works Logo" width="100">
 
 Welcome to the Adventure Works Sales Analysis repository! This project aims to analyze sales data from the Adventure Works sample database using Power BI. 
 
