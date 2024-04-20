@@ -1,6 +1,6 @@
 # Adventure Works Sales Analysis
 
-![Adventure Works Logo](images/adventure-works-logo.png)
+![Adventure Works Logo](adventure_works_logo.png)
 
 Welcome to the Adventure Works Sales Analysis repository! This project aims to analyze sales data from the Adventure Works sample database using Power BI. 
 
@@ -18,16 +18,16 @@ Adventure Works Sales Analysis is a demonstration project showcasing the capabil
 
 ## Screenshots
 
-![Dashboard 1](images/1.jpg)
+![Dashboard 1](1.jpg)
 *Screenshot of interactive sales dashboard*
 
-![Dashboard 2](images/2.jpg)
+![Dashboard 2](2.jpg)
 *Screenshot of Map Page*
 
-![Dashboard 3](images/3.jpg)
+![Dashboard 3](3.jpg)
 *Screenshot of Product dashboard.*
 
-![Dashboard 4](images/4.jpg)
+![Dashboard 4](4.jpg)
 *Screenshot of customer behavior analysis dashboard.*
 
 ## How to Use
